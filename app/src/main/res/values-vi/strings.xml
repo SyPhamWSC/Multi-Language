@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Ngôn Ngữ</string>
+    <string name="test_language">Kiểm tra Ngôn Ngữ</string>
+    <string name="btn_change_language">Đổi Ngôn Ngữ</string>
+    <string name="hello_world">Xin Chào Các Bạn</string>
+    <string name="btn_start_new_activity">Kiểm thử mới</string>
+</resources>
